@@ -9,6 +9,7 @@ public class Day1 {
 		public void lastexecution()
 		{
 			System.out.println("Atlast");
+			System.out.println("Atlast2");
 		}
 	@Test
 	public void Demo()

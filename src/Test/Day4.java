@@ -13,6 +13,7 @@ public class Day4 {
 	public void MobileLoginhomeloan()
 	{
 		System.out.println("Mobilelogin");
+		System.out.println("Mobilelogin2");
 	}
 	
 	@Test
